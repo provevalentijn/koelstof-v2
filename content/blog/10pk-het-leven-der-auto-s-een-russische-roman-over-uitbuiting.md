@@ -8,6 +8,8 @@ title = "10PK Het leven der auto’s: een russische roman over uitbuiting"
 type = "post"
 
 +++
+_“Men zegt, in Parijs vindt met de Kamer van afgevaardigden en de Venus van Milo, de Egyptische obelisk en Paul Valéry, uitstekende kleermakers en de wijze Sorbonne. De vreemdeling, die voor het eerst op een avond in deze stad komt, als de Venus en de professoren van Sorbonne reeds slapen, ziet slechts 1 woord voor zich; het vlamt op de Eiffeltoren in ellenlange letters: het is het naamkaartje van de heer André Citroën."_
+
 ##### Er zijn heel wat boeken geschreven met auto’s in de hoofdrol. De Standaard publiceerde niet zo lang geleden nog een [lijstje](https://www.standaard.be/cnt/dmf20211105_95882961) met zeven boeken over auto’s. Als reporter voor KOELSTOF beschouw ik het als mijn job om van de platgetreden literaire paden af te wijken en mijn trouwe lezerspubliek te voorzien van leesadvies voor de meerwaardezoeker. Als een baggermachine in een bruinkoolmijn heb ik mijn brein afgegraven op zoek naar het perfecte boek voor dit eerste themanummer van KOELSTOF. Nu moet ik toegeven dat ik nooit een autonerd ben geweest en dat ik niet bepaald betoverd wordt door het weerkaatsen van de zon in pas opgeblonken carrosserie. Een droog boek over auto’s zocht ik dus… Plots schoot het mij te binnen, zoals Elon Musk door zijn hyperloop: _10P.K. Het leven der auto’s_ van Ilja Ehrenburg.
 
 \[Content warning: Dit artikel bevat een bespreking van een boek dat verouderd en racistisch taalgebruik bevat.\]
