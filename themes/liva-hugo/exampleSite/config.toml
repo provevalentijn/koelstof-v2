@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://demo.gethugothemes.com/liva/"
-languageCode = "en-us"
-title = "Liva | Personal blog template"
+languageCode = "nl"
+title = "Koelstof | Online tijdschrift voor milieu-activisme"
 theme = "liva-hugo"
 summaryLength = "10"
 paginate = 6
@@ -45,12 +45,12 @@ disqusShortname = ""
 
   # main menu
   [[menu.main]]
-  name = "About"
+  name = "Koelwat?"
   URL = "about"
   weight = 1
 
   [[menu.main]]
-  name = "Post"
+  name = "Alle artikels"
   URL = "blog"
   weight = 2
 
@@ -61,12 +61,12 @@ disqusShortname = ""
 
   # footer menu
   [[menu.footer]]
-  name = "About"
+  name = "Koelwat?"
   URL = "about"
   weight = 1
 
   [[menu.footer]]
-  name = "Post"
+  name = "Alle artikels"
   URL = "blog"
   weight = 2
 
@@ -104,8 +104,8 @@ copyright = "| copyright &copy; 2022 Valentijn Prové voor Koelstof met [Themefi
 ############################ news letter ########################
 [params.newsletter]
 enable = true
-title = "Join Our Newsletter"
-content = "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero"
+title = "Koelstof nieuwsbrief"
+content = "Wil je graag via e-mail op de hoogte gehouden worden van onze nieuwe edities? Laat dan hieronder je contactgegevens achter!"
 
 
 # cookies
@@ -118,24 +118,10 @@ expire_days = 2
 [[params.social]]
 title = "facebook"
 icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-title = "twitter"
-icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://www.facebook.com/koelstofblad/"
 
 [[params.social]]
 title = "instagram"
 icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://www.instagram.com/koelstofblad/"
 
-[[params.social]]
-title = "github"
-icon = "ti-github" # themify icon : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-title = "linkedin"
-icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
-link = "#"
