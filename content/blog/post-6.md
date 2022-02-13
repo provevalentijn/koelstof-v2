@@ -1,7 +1,7 @@
 ---
 categories:
 - suv
-date: 2022-01-24T19:07:47+00:00
+date: 2022-01-24T19:07:47.000+00:00
 description: SUV-editie video
 image: "/uploads/post_video.PNG"
 tags:
@@ -10,5 +10,4 @@ title: SUV'erds aan het woord
 type: featured
 
 ---
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cTyc_73lXtE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube cTyc_73lXtE&t >}}
