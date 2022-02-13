@@ -82,15 +82,15 @@ logo = "images/logo.png"
 home = "Home"
 # Meta data
 description = "This is meta description"
-author = "Themefisher"
+author = ""
 # Google Analitycs
 googleAnalitycsID = "Your ID"
 # Contact Information
-mobile = "0124857985320"
-email = "demo@email.com"
-location = "Dhaka, Bangladedsh"
+mobile = ""
+email = "info.koelstof@gmail.com"
+location = ""
 # copyright
-copyright = "| copyright &copy; 2021 [Themefisher](https://themefisher.com/hugo-themes/) All Rights Reserved |"
+copyright = "| copyright &copy; 2022 Valentijn Prové voor Koelstof met [Themefisher](https://themefisher.com/hugo-themes/) Alle rechten voorbehouden |"
 
   # Preloader
   [params.preloader]
