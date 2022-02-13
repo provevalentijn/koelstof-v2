@@ -10,4 +10,3 @@ title: SUV'erds aan het woord
 type: featured
 
 ---
-{{< youtube cTyc_73lXtE&t >}}
