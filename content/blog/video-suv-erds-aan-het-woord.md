@@ -6,6 +6,6 @@ description = ""
 image = "/uploads/video_suv.png"
 tags = ["video", "interview"]
 title = "Video: SUV'erds aan het woord"
-type = ""
+type = "post"
 
 +++
