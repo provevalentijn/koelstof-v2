@@ -8,8 +8,6 @@ title = "Enkele feiten over auto's"
 type = "featured"
 
 +++
-# Enkele feiten over auto's
-
 ##### Toen ik besloot om wat feiten over SUV’s te verzamelen, dacht ik dat het een gemakkelijke opdracht was. Ik ging ervan uit dat de cijfers voor zich zouden spreken. Maar van zodra ik begon te graven, merkte ik dat veel berichtgeving over SUV’s sterk gekleurd is.
 
 Jesse Frederik bijvoorbeeld, start zijn artikel in De Correspondent met wat cijfers over de Mercedes G500 4x4². Dit is werkelijk een monsterauto, maar is in mijn ogen niet representatief voor de 45% van de verkochte auto’s die wel allemaal SUV’s genoemd worden.
