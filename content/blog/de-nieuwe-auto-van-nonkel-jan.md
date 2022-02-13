@@ -2,7 +2,6 @@
 categories = ["SUV-editie"]
 date = 2022-01-31T23:00:00Z
 description = ""
-draft = true
 image = "/uploads/nonkel_jan.png"
 tags = ["opinie"]
 title = "De nieuwe auto van nonkel Jan"
