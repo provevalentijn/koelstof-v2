@@ -6,7 +6,7 @@ image = "/uploads/solarpunk.jpg"
 tags = ["cultuur"]
 title = "Solarpunk: het gras is groener in de toekomst?"
 type = "featured"
-author : "Sien"
+author = "Sien"
 
 +++
 ##### Wat als de toekomst er veel beter uit zal zien dan we denken? Wat als we erin slagen om volledig over te stappen naar hernieuwbare energie, de steden te vergroenen, onze architectuur te verduurzamen? Dat is de toekomst die Solarpunk probeert voor te stellen, en te verwezenlijken. Hoewel de beweging aan populariteit wint, vooral online, is Solarpunk in onze contreien nog weinig bekend. Daar mag verandering in komen, want de ideeën achter Solarpunk kunnen een meerwaarde zijn voor elke activist. Tijd voor een introductie.
