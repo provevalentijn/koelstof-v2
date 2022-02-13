@@ -23,6 +23,11 @@ fields:
 - type: text
   name: type
   label: type
+- name: author
+  type: text
+  config:
+    required: true
+  label: author
 pages:
 - content/blog/10pk-het-leven-der-auto-s-een-russische-roman-over-uitbuiting.md
 - content/blog/de-nieuwe-auto-van-nonkel-jan.md
