@@ -1,7 +1,7 @@
 ---
 categories:
 - SUV
-date: 2022-02-01T04:07:47+00:00
+date: 2022-02-01T04:07:47.000+00:00
 description: SUV
 image: "/uploads/nonkel_jan.jpg"
 tags:
@@ -10,7 +10,6 @@ title: De nieuwe auto van nonkel Jan
 type: featured
 
 ---
-# De niewe auto van nonkel jan
 
 ##### **In onze maag zit naast een baksteen ook een auto. Die metalen blikken waar onze steden en opritten vol mee staan. We worden aangeleerd dat ze het symbool zijn van onze vrijheid. We worden door de overheid aangemoedigd om een auto te bezitten door salariswagens. We kiezen de grootste wagen uit en zeuren ons nadien te pletter over benzine- en dieselprijzen. Ons immer blinkend metalen SUV-blik past amper nog tussen de witte lijnen van de parkeerplaatsen bij de supermarkt. We lopen met open ogen in het veiligheidspraatje van de autoverkoper, maar sturen onze kinderen met een bang hart met de fiets naar school. Wie zijn de schuldigen in de SUV-problematiek, wat is de oplossing en wie is verantwoordelijk om die aan te leveren?**
 
