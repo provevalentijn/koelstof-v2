@@ -5,7 +5,7 @@ description = "Toen ik besloot om wat feiten over SUV’s te verzamelen, dacht i
 image = "/uploads/fact_square.png"
 tags = ["SUV", "factcheck"]
 title = "Enkele feiten over auto's"
-type = "featured"
+type = "post"
 
 +++
 ##### Toen ik besloot om wat feiten over SUV’s te verzamelen, dacht ik dat het een gemakkelijke opdracht was. Ik ging ervan uit dat de cijfers voor zich zouden spreken. Maar van zodra ik begon te graven, merkte ik dat veel berichtgeving over SUV’s sterk gekleurd is.
