@@ -10,6 +10,4 @@ title: SUV'erds aan het woord
 type: featured
 
 ---
-##### Youtube video
-
-{{< youtube cTyc_73lXtE&t=2s >}}
+    <iframe width="560" height="315" src="https://www.youtube.com/watch?v=cTyc_73lXtE&t=2s" frameborder="0" allowfullscreen></iframe>
