@@ -1,7 +1,7 @@
 +++
 categories = ["SUV-editie"]
 date = 2022-02-09T19:00:00Z
-description = ""
+description = "Toen ik besloot om wat feiten over SUV’s te verzamelen, dacht ik dat het een gemakkelijke opdracht was."
 image = "/uploads/facts.PNG"
 tags = ["SUV", "factcheck"]
 title = "Enkele feiten over auto's"
