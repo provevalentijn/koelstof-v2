@@ -1,6 +1,6 @@
 baseURL: https://demo.gethugothemes.com/liva/
-languageCode: en-us
-title: Liva | Personal blog template
+languageCode: nl
+title: Koelstof | Online tijdschrift voor milieu-activisme
 theme: liva-hugo
 summaryLength: '10'
 paginate: 6
@@ -11,25 +11,23 @@ outputs:
     - RSS
     - JSON
 params:
-  author: Themefisher
+  author: ''
   cookies:
     enable: yes
     expire_days: 2
-  copyright: '| copyright &copy; 2021 [Themefisher](https://themefisher.com/hugo-themes/)
-    All Rights Reserved |'
-  description: This is meta description
-  email: demo@email.com
+  copyright: '| copyright &copy; 2022 Valentijn Prové met [Themefisher](https://themefisher.com/hugo-themes/)
+    Alle rechten voorbehouden |'
+  description: ''
+  email: info.koelstof@gmail.com
   googleAnalitycsID: Your ID
   home: Home
-  location: Dhaka, Bangladedsh
+  location: ''
   logo: images/logo.png
-  mobile: 0124857985320
+  mobile: ''
   newsletter:
-    content: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-      eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
-      At vero
+    content: Wil je graag via e-mail op de hoogte gehouden worden van onze nieuwe edities? Laat dan hieronder je contactgegevens achter!
     enable: yes
-    title: Join Our Newsletter
+    title: Ontvang de nieuwsbrief van Koelstof!
   plugins:
     css:
       - URL: plugins/bootstrap/bootstrap.min.css
@@ -51,37 +49,31 @@ params:
     enable: yes
   social:
     - icon: ti-facebook
-      link: '#'
+      link: 'https://www.facebook.com/koelstofblad/'
       title: facebook
     - icon: ti-twitter-alt
-      link: '#'
+      link: 'https://twitter.com/koelstofblad'
       title: twitter
     - icon: ti-instagram
-      link: '#'
+      link: 'https://www.instagram.com/koelstofblad/'
       title: instagram
-    - icon: ti-github
-      link: '#'
-      title: github
-    - icon: ti-linkedin
-      link: '#'
-      title: linkedin
 menu:
   footer:
     - URL: about
-      name: About
+      name: Koelwat?
       weight: 1
     - URL: blog
-      name: Post
+      name: Alle artikels
       weight: 2
     - URL: contact
       name: Contact
       weight: 3
   main:
     - URL: about
-      name: About
+      name: Koelwat?
       weight: 1
     - URL: blog
-      name: Post
+      name: Alle artikels
       weight: 2
     - URL: contact
       name: Contact
