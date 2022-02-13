@@ -10,4 +10,4 @@ type = "featured"
 
 +++
 
-{{<audio src="/audio/interview_balthazar.wav" caption="your caption" >}}
+{{<audio src="/audio/interview_balthazar.mp3" caption="your caption" >}}
