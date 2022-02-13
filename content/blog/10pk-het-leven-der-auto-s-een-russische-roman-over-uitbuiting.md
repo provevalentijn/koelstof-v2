@@ -6,6 +6,7 @@ image = "/uploads/citroen.png"
 tags = ["cultuur"]
 title = "10PK Het leven der auto’s: een russische roman over uitbuiting"
 type = "post"
+author = "Sien"
 
 +++
 _“Men zegt, in Parijs vindt met de Kamer van afgevaardigden en de Venus van Milo, de Egyptische obelisk en Paul Valéry, uitstekende kleermakers en de wijze Sorbonne. De vreemdeling, die voor het eerst op een avond in deze stad komt, als de Venus en de professoren van Sorbonne reeds slapen, ziet slechts 1 woord voor zich; het vlamt op de Eiffeltoren in ellenlange letters: het is het naamkaartje van de heer André Citroën."_
