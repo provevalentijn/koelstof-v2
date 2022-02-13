@@ -3,7 +3,7 @@ categories:
 - SUV
 date: 2022-02-01T04:07:47+00:00
 description: SUV
-image: images/featured-post/post-1.jpg
+image: "/uploads/nonkel_jan.jpg"
 tags:
 - opinie
 title: De nieuwe auto van nonkel Jan
