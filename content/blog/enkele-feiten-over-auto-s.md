@@ -2,7 +2,6 @@
 categories = ["SUV-editie"]
 date = 2022-02-09T19:00:00Z
 description = ""
-draft = true
 image = "/uploads/facts.PNG"
 tags = ["SUV", "factcheck"]
 title = "Enkele feiten over auto's"
