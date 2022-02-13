@@ -10,4 +10,4 @@ type = "post"
 
 +++
 
-{{< youtube cTyc_73lXtE&t >}}
+{{< youtube id="cTyc_73lXtE&t"" >}}
