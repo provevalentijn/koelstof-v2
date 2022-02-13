@@ -9,3 +9,5 @@ title = "Nic Balthazar vertelt ons waarom klimaatmarsen belangrijk zijn!"
 type = "featured"
 
 +++
+
+{{<audio src="/audio/interview_balthazar.wav" caption="your caption" >}}
