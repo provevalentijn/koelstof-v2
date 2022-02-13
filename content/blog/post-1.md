@@ -1,158 +1,28 @@
 ---
 categories:
-- Android And Gaming
-date: "2019-10-29T10:07:47+06:00"
-description: this is meta description
-draft: false
+- SUV
+date: 2022-02-01T04:07:47+00:00
+description: SUV
 image: images/featured-post/post-1.jpg
 tags:
-- Photos
-- Game
-- React
-- Python
-- New
-title: How To Use Checklists To Improve Your UX
+- opinie
+title: De nieuwe auto van nonkel Jan
 type: featured
+
 ---
+# De niewe auto van nonkel jan
 
-# Heading 1
-## Heading 2
-### Heading 3
-#### Heading 4
-##### Heading 5
-###### Heading 6
+##### **In onze maag zit naast een baksteen ook een auto. Die metalen blikken waar onze steden en opritten vol mee staan. We worden aangeleerd dat ze het symbool zijn van onze vrijheid. We worden door de overheid aangemoedigd om een auto te bezitten door salariswagens. We kiezen de grootste wagen uit en zeuren ons nadien te pletter over benzine- en dieselprijzen. Ons immer blinkend metalen SUV-blik past amper nog tussen de witte lijnen van de parkeerplaatsen bij de supermarkt. We lopen met open ogen in het veiligheidspraatje van de autoverkoper, maar sturen onze kinderen met een bang hart met de fiets naar school. Wie zijn de schuldigen in de SUV-problematiek, wat is de oplossing en wie is verantwoordelijk om die aan te leveren?**
 
-<hr>
+Zondagnamiddag, ergens in een landelijke gemeente. Het zonnetje schijnt en de familie geniet samen van koffie en taart in de tuin. Waarschijnlijk een herkenbaar tafereel, als u uit een klassiek Vlaams gezin komt. Het gespreksonderwerp: de nieuwe auto van nonkel Jan, een Volvo XC90. (Voor de autoleken: een gigantische bak waar je gemakkelijk een koe mee omver rijdt, ook gekend als SUV). Terwijl nonkel Jan pocht over de kracht en de technologische snufjes van zijn nieuwste aankoop, fronst nichtje Marie haar wenkbrauwen. “Zo'n olieslurpend monster is toch niet verantwoord? Een kleinere auto heeft net zo veel bergruimte en is veel veiliger voor fietsers en voetgangers,” haalt ze aan. Nonkel Jan lacht de kritiek weg. Iedereen rijdt tegenwoordig met zo'n grote auto. Waarom zou hij dat dan niet mogen? De overheid verbiedt het niet dus zo’n probleem zal het wel niet zijn. Daarbij vermeldde de autoverkoper dat zijn nieuwe auto alle nodige veiligheid biedt om zijn vierjarige dochter in te vervoeren.
 
-##### Emphasis
+Bent u al boos op nonkel Jan met zijn gebrek aan verantwoordelijkheidsgevoel of praat Marie hem onterecht een schuldgevoel aan? In klimaatdiscussies wijzen we vaak een schuldige aan. Zo belanden we in kampen, lijnrecht tegenover elkaar. Het ene kamp wijst vooral op individuele verantwoordelijkheid. Jij eet vlees en dat veroorzaakt ontbossing. Jij rijdt met de auto en dat zorgt voor luchtvervuiling. Daardoor ligt ook de oplossing van het klimaatprobleem bij het individu. Jij moet vaker de fiets nemen in plaats van de auto, minder vlees eten... Het andere kamp wijst vaak naar het systeem. De maatschappij verwacht dat ik elk seizoen nieuwe kleren koop anders ben ik niet mee met de laatste mode. Mensen kiezen voor de auto omdat de overheid autogebruik (en dus ook SUV-gebruik) aanmoedigt door de prominente plaats die auto’s krijgen in ons openbaar domein, door gratis/goedkoop straatparkeren en door salariswagens. De oplossing moet dan ook komen van het systeem. We moeten als maatschappij minder belang hechten aan modetrends en meer aan duurzame kledij. De overheid moet voor een goed treinnetwerk zorgen, straatparkeren verbieden en de ruimtelijke ordening veranderen.
 
-Emphasis, aka italics, with *asterisks* or _underscores_.
+De realiteit is complexer dan die twee groepen. Wie zijn de schuldigen in de SUV-problematiek, wat is de oplossing en wie is verantwoordelijk om die aan te leveren? Net als bij veel andere aspecten van de klimaatcrisis dragen de grotere systemen in de maatschappij een belangrijke verantwoordelijkheid. Zo worden we door het systeem van salariswagens aangeleerd dat je meer aanzien verdient als je een grotere wagen hebt. Het moedigt ook privébezit van auto’s aan en je bent sneller geneigd om je met de auto te verplaatsen dan een alternatief te zoeken. Er bestaat ook geen wet die het maximale gewicht van een auto vastlegt. _The sky is the limit_ voor het gewicht van SUV’s. De overheid, wetten en fiscale regelgeving zijn dus zeker structuren die ons kunnen helpen om alternatieven aantrekkelijker te maken.
 
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
+Maar ook de auto-industrie heeft haar rol te spelen. Met reclames die ons veiligheid en comfort beloven en ons doen dromen van eindeloze autoritten door de wilde natuur, overtuigt de auto-industrie ons ervan dat SUV’s onmisbaar zijn. Maakt de producent wat de consument wil kopen of koopt de consument wat de producent wil dat de consument koopt? Hoe ethisch is het om reclame te maken met mooie natuurbeelden voor iets dat de natuur om zeep helpt? Technologische winsten qua verbruik die we op auto’s gemaakt hebben, worden tenietgedaan door de toename in gewicht. En zijn we wel echt veiliger in die SUV? Als mijn auto groter is dan die van mijn buurman voel ik me misschien veiliger. Maar zal ik dat gevoel behouden als hij een even grote auto koopt? Of moet de mijne dan weer groter? En wat met alle fietsers en voetgangers die er onzacht mee in aanraking komen? Is het voor hen ook veiliger? Zullen onze kinderen over 15 jaar niet hetzelfde denken over SUV-reclame als hoe wij nu over sigarettenreclame denken?
 
-Combined emphasis with **asterisks and _underscores_**.
-
-Strikethrough uses two tildes. ~~Scratch this.~~
-
-<hr>
-
-##### Link
-[I'm an inline-style link](https://www.google.com)
-
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
-
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
-
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
-
-[You can use numbers for reference-style link definitions][1]
-
-Or leave it empty and use the [link text itself].
-
-URLs and URLs in angle brackets will automatically get turned into links.
-http://www.example.com or <http://www.example.com> and sometimes
-example.com (but not on Github, for example).
-
-Some text to show that the reference links can follow later.
-
-[arbitrary case-insensitive reference text]: https://www.mozilla.org
-[1]: http://slashdot.org
-[link text itself]: http://www.reddit.com
-
-<hr>
-
-##### Paragraph
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus, facilis placeat pariatur! Voluptatem, sed harum pariatur adipisci voluptates voluptatum cumque, porro sint minima similique magni perferendis fuga! Optio vel ipsum excepturi tempore reiciendis id quidem? Vel in, doloribus debitis nesciunt fugit sequi magnam accusantium modi neque quis, vitae velit, pariatur harum autem a! Velit impedit atque maiores animi possimus asperiores natus repellendus excepturi sint architecto eligendi non, omnis nihil. Facilis, doloremque illum. Fugit optio laborum minus debitis natus illo perspiciatis corporis voluptatum rerum laboriosam.
-
-<hr>
-
-##### List
-
-1. List item
-2. List item
-3. List item
-4. List item
-5. List item
-
-##### Unordered List
-
-* List item
-* List item
-* List item
-* List item
-* List item
-
-<hr>
-
-##### Code and Syntax Highlighting
-
-Inline `code` has `back-ticks around` it.
-
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
-
-```python
-s = "Python syntax highlighting"
-print s
-```
-
-```
-No language indicated, so no syntax highlighting.
-But let's throw in a <b>tag</b>.
-```
-
-<hr>
-
-##### Blockquote
-
-> This is a blockquote example.
-
-<hr>
-
-##### Inline HTML
-
-You can also use raw HTML in your Markdown, and it'll mostly work pretty well.
-
-<dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
-
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
-</dl>
-
-
-<hr>
-
-##### Tables
-
-Colons can be used to align columns.
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-There must be at least 3 dashes separating each header cell.
-The outer pipes (|) are optional, and you don't need to make the
-raw Markdown line up prettily. You can also use inline Markdown.
-
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
-
-<hr>
-
-##### Image
-
-![image](../../images/post/post-1.jpg)
-
-<hr>
+En individuen dan? Hebben die een rol te spelen in de oplossing of zijn ze overgeleverd aan de keuzes die de grotere structuren als overheden en reclame hen opleggen? In het geval van SUV’s is de individuele verantwoordelijkheid een belangrijke factor. In tegenstelling tot in veel andere klimaatgerelateerde problemen zijn hier wel betaalbare, evenwaardige alternatieven. Hoewel de fiets, openbaar vervoer en deelmobiliteit te verkiezen alternatieven zijn, vullen die in de huidige Belgische context nog niet alle noden in. Tot die tijd heb je als individu wel een uiterst gemakkelijke andere oplossing als je een auto in privébezit nodig hebt, waar je volledig zelf over beslist: een kleine auto. Het hoeft geen Fiat 500 te zijn, er zit heus nog iets tussenin.
 
 ##### Youtube video
 
