@@ -1,9 +1,7 @@
 ---
-date: "2019-10-29T13:49:23+06:00"
+date: 2019-10-29T13:49:23+06:00
 description: this is meta description
-draft: false
-title: Get In Touch
-type: contact
----
+title: De redactie
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea
+---
+Koelstof komt tot stand door een redactie van acht enthousiastelingen die samen het klimaatprobleem willen aanpakken. We komen om de twee weken samen om hard te werken aan de volgende editie. We bespreken wat we gaan doen, wie er wie helpt, wie alles even controleert... Want amai, daar komt veel bij kijken! We stellen onszelf kort voor.
