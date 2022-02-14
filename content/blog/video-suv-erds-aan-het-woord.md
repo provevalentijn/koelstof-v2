@@ -1,6 +1,6 @@
 +++
 author = "Koelstof redactie"
-categories = []
+categories = ["SUV-editie"]
 date = 2022-01-24T23:00:00Z
 description = ""
 image = "/uploads/video_suv.png"
