@@ -1,12 +1,12 @@
 +++
+author = "Michiel"
 categories = ["SUV-editie"]
 date = 2022-02-09T19:00:00Z
 description = "Toen ik besloot om wat feiten over SUV’s te verzamelen, dacht ik dat het een gemakkelijke opdracht was."
-image = "/uploads/fact_square.png"
+image = "/uploads/facts.PNG"
 tags = ["SUV", "factcheck"]
 title = "Enkele feiten over auto's"
 type = "post"
-author = "Michiel"
 
 +++
 ##### Toen ik besloot om wat feiten over SUV’s te verzamelen, dacht ik dat het een gemakkelijke opdracht was. Ik ging ervan uit dat de cijfers voor zich zouden spreken. Maar van zodra ik begon te graven, merkte ik dat veel berichtgeving over SUV’s sterk gekleurd is.
