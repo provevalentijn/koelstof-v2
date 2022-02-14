@@ -65,7 +65,7 @@ menu:
       name: Artikels
       weight: 2
     - URL: contact
-      name: Contact
+      name: Redactie
       weight: 3
   main:
     - URL: about
@@ -75,5 +75,5 @@ menu:
       name: Artikels
       weight: 2
     - URL: contact
-      name: Contact
+      name: Redactie
       weight: 3
