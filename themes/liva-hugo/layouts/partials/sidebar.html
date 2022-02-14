@@ -14,7 +14,7 @@
     </div>
     <!-- category -->
     <div class="widget">
-      <h4 class="widget-title">Category</h4>
+      <h4 class="widget-title">Edities</h4>
       {{- if isset .Site.Taxonomies "categories" }}
       {{- if not (eq (len .Site.Taxonomies.categories) 0) }}
       <ul class="list-unstyled">
@@ -43,16 +43,16 @@
     </div>
     <!-- social -->
     <div class="widget">
-      <h4 class="widget-title">Social</h4>
+      <h4 class="widget-title">Sociale media</h4>
       <ul class="list-inline social-links">
         {{ range .Site.Params.social }}
         <li class="list-inline-item"><a href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a></li>
         {{ end }}
       </ul>
     </div>
-    <!-- advertisement -->
+    <!-- cartoon -->
     <div class="widget">
-      <img src="{{`images/promotion.png` | absURL}}" alt="" class="img-fluid">
+      <img src="{{`images/cartoon.png` | absURL}}" alt="" class="img-fluid">
     </div>
   </div>
 </div>
