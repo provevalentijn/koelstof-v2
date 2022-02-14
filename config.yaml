@@ -13,7 +13,7 @@ outputs:
 params:
   author: ''
   cookies:
-    enable: yes
+    enable: no
     expire_days: 2
   copyright: '| copyright &copy; 2022 Valentijn Prové & [Themefisher](https://themefisher.com/hugo-themes/)|'
   description: ''
