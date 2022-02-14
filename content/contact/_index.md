@@ -5,3 +5,5 @@ title: De redactie
 
 ---
 Koelstof komt tot stand door een redactie van acht enthousiastelingen die samen het klimaatprobleem willen aanpakken. We komen om de twee weken samen om hard te werken aan de volgende editie. We bespreken wat we gaan doen, wie er wie helpt, wie alles even controleert... Want amai, daar komt veel bij kijken! We stellen onszelf kort voor.
+
+![](/uploads/lancereing.jpg)
