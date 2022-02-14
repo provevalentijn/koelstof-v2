@@ -1,10 +1,5 @@
 baseURL: https://demo.gethugothemes.com/liva/
-languageCode: nl
-languages:
-  nl:
-    contentDir: content/nl
-    languageName: Nederlands
-    weight: 1
+languageCode: en-us
 title: Koelstof | Online tijdschrift voor milieu-activisme
 theme: liva-hugo
 summaryLength: '10'
@@ -20,8 +15,7 @@ params:
   cookies:
     enable: yes
     expire_days: 2
-  copyright: '| copyright &copy; 2022 Valentijn Prové met [Themefisher](https://themefisher.com/hugo-themes/)
-    Alle rechten voorbehouden |'
+  copyright: '| copyright &copy; 2022 Valentijn Prové & [Themefisher](https://themefisher.com/hugo-themes/)|'
   description: ''
   email: info.koelstof@gmail.com
   googleAnalitycsID: Your ID
