@@ -63,7 +63,7 @@ menu:
       name: Koelwat?
       weight: 1
     - URL: blog
-      name: Alle artikels
+      name: Artikels
       weight: 2
     - URL: contact
       name: Contact
@@ -73,7 +73,7 @@ menu:
       name: Koelwat?
       weight: 1
     - URL: blog
-      name: Alle artikels
+      name: Artikels
       weight: 2
     - URL: contact
       name: Contact
