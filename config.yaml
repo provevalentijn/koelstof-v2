@@ -1,10 +1,10 @@
 baseURL: https://demo.gethugothemes.com/liva/
 languageCode: nl
-[languages]
-  [languages.nl]
-    contentDir = 'content/nl'
-    languageName = 'Nederlands'
-    weight = 1
+languages:
+  nl:
+    contentDir: content/nl
+    languageName: Nederlands
+    weight: 1
 title: Koelstof | Online tijdschrift voor milieu-activisme
 theme: liva-hugo
 summaryLength: '10'
