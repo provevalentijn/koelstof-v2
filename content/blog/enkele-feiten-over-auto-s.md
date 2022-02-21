@@ -132,19 +132,6 @@ In de VS is er de voorbije jaren een toename in dodelijke ongevallen met voetgan
 
 Er rijden meer en meer SUV’s rond, en gemiddeld worden auto’s zwaarder. Het is duidelijk dat een zware auto vervuilender en minder veilig voor andere weggebruikers is dan een kleinere auto. Bovendien stimuleert Europa door het formuleren van de CO2-normen de verkoop van zwaardere auto’s. De vraag stelt zich wel of de opdeling in SUV en niet-SUV relevant is. Er is namelijk een verbreding van het begrip SUV, en ook niet-SUV’s nemen bepaalde kenmerken over van SUV’s en worden bijvoorbeeld zwaarder.
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-library(tippy)
-```
-
-This is a 
-```{r echo = FALSE}
-tippy("word.", tooltip = "Definition of word that pops up in a box upon hovering")
-```
-I would like to know its definition.
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
-<abbr title="het European New Car Assessment Programme (EURO-NCAP of kortweg NCAP) is een onafhankelijke non-profit-organisatie die de veiligheid van nieuwe auto's evalueert. Het is een samenwerking tussen overheden, de auto-industrie en consumentenorganisaties. Het geldt als de standaard als het op veiligheidsbeoordeling aankomt">EURO-NCAP</abbr>
+{% raw %}
+    {{</* tooltip */>}}your word here{{</* definition */>}}Word definition here{{</* /definition */>}}{{</* /tooltip */>}}
+{% endraw %}
