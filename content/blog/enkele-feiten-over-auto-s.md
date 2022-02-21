@@ -118,7 +118,7 @@ Concreet mag een auto per 100 kg extra gewicht 3,33 g/km CO2 uitstoten. Dit is b
 
 5. En wat met de veiligheid?
 
-SUV’s zijn hoger en zwaarder dan niet-SUV’s. In onafhankelijk veiligheidstesten (door EURO-NCAP) scoren ze echter zeer hoog, ook op het vlak van veiligheid voor zwakke weggebruikers. Deze laatste score wordt sterk beïnvloed door de aanwezigheid van autonome noodstopsystemen (AEB): een botsing met een lagere snelheid (of geen botsing) veroorzaakt uiteraard minder letsel dan een impact met hoge snelheid.
+SUV’s zijn hoger en zwaarder dan niet-SUV’s. In onafhankelijk veiligheidstesten (door <abbr title="het European New Car Assessment Programme (EURO-NCAP of kortweg NCAP) is een onafhankelijke non-profit-organisatie die de veiligheid van nieuwe auto's evalueert. Het is een samenwerking tussen overheden, de auto-industrie en consumentenorganisaties. Het geldt als de standaard als het op veiligheidsbeoordeling aankomt">EURO-NCAP</abbr>) scoren ze echter zeer hoog, ook op het vlak van veiligheid voor zwakke weggebruikers. Deze laatste score wordt sterk beïnvloed door de aanwezigheid van autonome noodstopsystemen (AEB): een botsing met een lagere snelheid (of geen botsing) veroorzaakt uiteraard minder letsel dan een impact met hoge snelheid.
 
 Bovendien zijn er in verschillende SUV’s nog technologische snufjes aanwezig die in geval van een botsing ervoor zorgen dat de impact zo laag mogelijk blijft. Een voorbeeld is de actieve motorkap, die ervoor zorgt dat de motorkap open springt bij een botsing, zodat de voetganger met meer elastische onderdelen in contact komt. Doordat SUV’s vaak in duurdere prijsklasses vallen, zijn deze technologieën vaker aanwezig.
 
